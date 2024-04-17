@@ -3,7 +3,9 @@
 import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
 // Profile Image
-import profile from "./assets/profile.jpg";
+//import profile from "./assets/profile.jpg";
+//import aleanse from "./assets/aleanse.jpg";
+import aleanse from "./assets/aleanse.jpeg";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
@@ -35,10 +37,19 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
-  img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  name: "Aleanse dos santos lima rego",
+  tagline: "sou desenvolvedor Back-end em busca de constante evolução",
+  img: aleanse,
+  about: `Olá! Meu nome é Aleanse dos santos lima rego, e sou apaixonado pela tecnologia.Em constante busca por evolução,desenvolvi uma paixão pelo mundo da programação e da computação, e essa paixão só cresceu  ao longo dos anos.
+
+  Meu fascínio pela tecnologia me levou a explorar diversas áreas dentro da programação, em especial desenvolvimento web e back-end.Estou sempre ansioso para aprender novas linguagens de programação, frameworks e tecnologias emergentes.
+  
+  Acredito que a chave para o sucesso na indústria da tecnologia é a constante evolução e aprendizado. Por isso, estou sempre procurando oportunidades para aprimorar minhas habilidades e me manter atualizado com as últimas tendências e práticas recomendadas.
+  
+  Além do meu interesse pela parte técnica, também valorizo a colaboração e o trabalho em equipe. Acredito que a melhor maneira de alcançar resultados excepcionais é através da troca de conhecimento e da colaboração com colegas talentosos.
+  Estou empolgado com as oportunidades que o futuro da tecnologia nos reserva e mal posso esperar para fazer parte dessa jornada emocionante!
+  
+  `,
 };
 
 // Enter your Social Media URLs here
@@ -52,43 +63,30 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Position: "Bolsista Programa Jovem Tech : programa de estudo com objetivo de formar jovens programadores.  ",
+    Company: `pulse`,
+    Location: "São Luis MA",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "jan 2024 - jun 2024",
   },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
+  
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
-    Type: "Full Time",
-    Duration: "Jan 2022 - Present",
+    Position: "Bacharelado Interdisciplina em Ciência e Tecnologia",
+    Company: "UFMA",
+    Location: "São luís MA ",
+    Type: "Presencial",
+    Duration: "out 2021 - jan 2025",
   },
   {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Position: "Engenharia da Computação",
+    Company: `UFMA`,
+    Location: "São luís MA",
+    Type: "Presencial",
+    Duration: "out 2021 - out 2026",
   },
 ];
 
@@ -113,11 +111,10 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Site de Receitas",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `site de receitas onde voçê pode cadastrar suas receitas favoritas, alem de ver as receitas de outros usuarios e pesquisar receitas através de descrição ou ingrediente`,
+    techstack: "Python/Django",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
