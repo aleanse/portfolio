@@ -9,18 +9,15 @@ import aleanse from "./assets/aleanse.jpeg";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
-import sass from "./assets/techstack/sass.png";
 import js from "./assets/techstack/js.png";
-import react from "./assets/techstack/react.png";
-import redux from "./assets/techstack/redux.png";
-import tailwind from "./assets/techstack/tailwind.png";
-import bootstrap from "./assets/techstack/bootstrap.png";
 import vscode from "./assets/techstack/vscode.png";
 import github from "./assets/techstack/github.png";
 import git from "./assets/techstack/git.png";
-import npm from "./assets/techstack/npm.png";
-import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
+import python from "./assets/techstack/python.png";
+import java from "./assets/techstack/java.png";
+import django from "./assets/techstack/django.png";
+import spring from "./assets/techstack/spring.png";
 // Porject Images
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
@@ -37,10 +34,10 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Aleanse dos santos lima rego",
+  name: "Aleanse dos Santos Lima Rego",
   tagline: "sou desenvolvedor Back-end em busca de constante evolução",
   img: aleanse,
-  about: `Olá! Meu nome é Aleanse dos santos lima rego, e sou apaixonado pela tecnologia.Em constante busca por evolução,desenvolvi uma paixão pelo mundo da programação e da computação, e essa paixão só cresceu  ao longo dos anos.
+  about: `Olá! Meu nome é Aleanse dos Santos Lima Rego, e sou apaixonado pela tecnologia.Em constante busca por evolução,desenvolvi uma paixão pelo mundo da programação e da computação, e essa paixão só cresceu  ao longo dos anos.
 
   Meu fascínio pela tecnologia me levou a explorar diversas áreas dentro da programação, em especial desenvolvimento web e back-end.Estou sempre ansioso para aprender novas linguagens de programação, frameworks e tecnologias emergentes.
   
@@ -95,17 +92,14 @@ export const techStackDetails = {
   html: html,
   css: css,
   js: js,
-  react: react,
-  redux: redux,
-  sass: sass,
-  tailwind: tailwind,
-  bootstrap: bootstrap,
   vscode: vscode,
-  postman: postman,
-  npm: npm,
   git: git,
   github: github,
   figma: figma,
+  java: java,
+  python: python,
+  django: django,
+  spring: spring,
 };
 
 // Enter your Project Details here
