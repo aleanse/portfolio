@@ -19,7 +19,7 @@ import java from "./assets/techstack/java.png";
 import django from "./assets/techstack/django.png";
 import spring from "./assets/techstack/spring.png";
 // Porject Images
-import projectImage1 from "./assets/projects/project1.jpg";
+import projectImage1 from "./assets/projects/project1.png";
 import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
@@ -60,7 +60,7 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Bolsista Programa Jovem Tech : programa de estudo com objetivo de formar jovens programadores.  ",
+    Position: "Bolsista Jovem Tech : programa de estudo com objetivo de formar jovens programadores. ",
     Company: `pulse`,
     Location: "São Luis MA",
     Type: "Full Time",
@@ -110,7 +110,7 @@ export const projectDetails = [
     description: `site de receitas onde voçê pode cadastrar suas receitas favoritas, alem de ver as receitas de outros usuarios e pesquisar receitas através de descrição ou ingrediente`,
     techstack: "Python/Django",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/aleanse/Recipe_website_with_Django",
   },
   {
     title: "Project title 2",

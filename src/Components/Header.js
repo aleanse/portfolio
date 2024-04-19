@@ -37,27 +37,27 @@ function Header() {
         <ul className="dark:text-light-content font-medium md:flex items-center md:space-x-5 md:mr-10">
           <li className="pb-1 md:pb-0">
             <NavLink to="/" onClick={toggleClass}>
-              Home
+              Pagina inicial
             </NavLink>
           </li>
           <li className="pb-1 md:pb-0">
             <NavLink to="/about" onClick={toggleClass}>
-              About
+              Sobre mim
             </NavLink>
           </li>
           <li className="pb-1 md:pb-0">
             <NavLink to="/technologies" onClick={toggleClass}>
-              Technologies
+              Tecnologias
             </NavLink>
           </li>
           <li className="pb-1 md:pb-0">
             <NavLink to="/projects" onClick={toggleClass}>
-              Projects
+              Projetos
             </NavLink>
           </li>
           <li>
             <NavLink to="/contact" onClick={toggleClass}>
-              Contact
+              Contato
             </NavLink>
           </li>
         </ul>

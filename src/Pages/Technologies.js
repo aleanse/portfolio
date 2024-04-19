@@ -1,5 +1,9 @@
 import React from "react";
 import { techStackDetails } from "../Details";
+import { BrowserRouter } from 'react-router-dom';
+import {
+  Tech,
+} from '../Components';
 
 function Technologies() {
   const {
@@ -26,13 +30,16 @@ function Technologies() {
         </p>
       </section>
       <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 items-center gap-10 pt-6">
-        <img src={html} title="html" alt="" />
+        {/* <img src={html} title="html" alt="" />
         <img src={css} title="CSS" alt="" />
         <img src={js} title="JavaScript" alt="" />
         <img src={python} title="React" alt="" />
         <img src={django} title="Redux" alt="" />
         <img src={java} title="Tailwind CSS" alt="" />
-        <img src={spring} title="Bootstrap" alt="" />
+        <img src={spring} title="Bootstrap" alt="" /> */}
+        <div className="bg-tech bg-cover bg-center bg-no-repeat pb-10">
+          <Tech />
+        </div>
       
       </section>
       <section>
