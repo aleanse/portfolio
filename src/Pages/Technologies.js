@@ -37,7 +37,7 @@ function Technologies() {
         <img src={django} title="Redux" alt="" />
         <img src={java} title="Tailwind CSS" alt="" />
         <img src={spring} title="Bootstrap" alt="" /> */}
-        <div className="bg-tech bg-cover bg-center bg-no-repeat pb-10">
+        <div className="bg-tech bg-cover bg-center bg-no-repeat pb-10 grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 items-center gap-10 pt-6">
           <Tech />
         </div>
       
