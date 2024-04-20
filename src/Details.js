@@ -7,17 +7,17 @@ import logo from "./assets/logo2.svg";
 //import aleanse from "./assets/aleanse.jpg";
 import aleanse from "./assets/aleanse.jpeg";
 // Tech stack images
-import html from "./assets/techstack/html.png";
-import css from "./assets/techstack/css.png";
-import js from "./assets/techstack/js.png";
-import vscode from "./assets/techstack/vscode.png";
-import github from "./assets/techstack/github.png";
-import git from "./assets/techstack/git.png";
-import figma from "./assets/techstack/figma.png";
-import python from "./assets/techstack/python.png";
-import java from "./assets/techstack/java.png";
-import django from "./assets/techstack/django.png";
-import spring from "./assets/techstack/spring.png";
+// import html from "./assets/techstack/html.png";
+// import css from "./assets/techstack/css.png";
+// import js from "./assets/techstack/js.png";
+// import vscode from "./assets/techstack/vscode.png";
+// import github from "./assets/techstack/github.png";
+// import git from "./assets/techstack/git.png";
+// import figma from "./assets/techstack/figma.png";
+// import python from "./assets/techstack/python.png";
+// import java from "./assets/techstack/java.png";
+// import django from "./assets/techstack/django.png";
+// import spring from "./assets/techstack/spring.png";
 // Porject Images
 import projectImage1 from "./assets/projects/project1.png";
 import projectImage2 from "./assets/projects/project2.jpg";
@@ -88,19 +88,19 @@ export const eduDetails = [
 ];
 
 // Tech Stack and Tools
-export const techStackDetails = {
-  html: html,
-  css: css,
-  js: js,
-  vscode: vscode,
-  git: git,
-  github: github,
-  figma: figma,
-  java: java,
-  python: python,
-  django: django,
-  spring: spring,
-};
+// export const techStackDetails = {
+//   html: html,
+//   css: css,
+//   js: js,
+//   vscode: vscode,
+//   git: git,
+//   github: github,
+//   figma: figma,
+//   java: java,
+//   python: python,
+//   django: django,
+//   spring: spring,
+// };
 
 // Enter your Project Details here
 export const projectDetails = [

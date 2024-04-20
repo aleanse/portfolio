@@ -3,16 +3,13 @@ import {
     typescript,
     html,
     css,
-    reactjs,
-    redux,
     tailwind,
-    nodejs,
     git,
     figma,
-    docker,
-    postgresql,
-    rubyrails,
-    graphql,
+    python,
+    django,
+    java,
+    spring
     
   } from '../assets';
   
@@ -33,6 +30,22 @@ import {
   
   const technologies = [
     {
+      name: 'Python',
+      icon: python,
+    },
+    {
+      name: 'Django',
+      icon: django,
+    },
+    {
+      name: 'Java',
+      icon: java,
+    },
+    {
+      name: 'Spring',
+      icon: spring,
+    },
+    {
       name: 'HTML 5',
       icon: html,
     },
@@ -45,36 +58,8 @@ import {
       icon: javascript,
     },
     {
-      name: 'TypeScript',
-      icon: typescript,
-    },
-    {
-      name: 'React JS',
-      icon: reactjs,
-    },
-    {
-      name: 'Redux Toolkit',
-      icon: redux,
-    },
-    {
       name: 'Tailwind CSS',
       icon: tailwind,
-    },
-    {
-      name: 'Node JS',
-      icon: nodejs,
-    },
-    {
-      name: 'Rails',
-      icon: rubyrails,
-    },
-    {
-      name: 'graphql',
-      icon: graphql,
-    },
-    {
-      name: 'postgresql',
-      icon: postgresql,
     },
     {
       name: 'git',
@@ -83,10 +68,6 @@ import {
     {
       name: 'figma',
       icon: figma,
-    },
-    {
-      name: 'docker',
-      icon: docker,
     },
   ];
   
