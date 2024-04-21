@@ -10,7 +10,7 @@ const Tech = () => {
     <>
       <motion.div variants={textVariant()}>
 
-        <h2 className={styles.sectionHeadTextLight}>Tecnologias</h2>
+        <h2 className={`${styles.sectionHeadTextLight} text-light-heading text-center`}>Tecnologias</h2>
       </motion.div>
 
       <div className="grid grid-cols-3 gap-16 mt-14">

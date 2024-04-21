@@ -1,10 +1,8 @@
 import {
     javascript,
-    typescript,
     html,
     css,
     tailwind,
-    git,
     figma,
     python,
     django,
@@ -60,10 +58,6 @@ import {
     {
       name: 'Tailwind CSS',
       icon: tailwind,
-    },
-    {
-      name: 'git',
-      icon: git,
     },
     {
       name: 'figma',

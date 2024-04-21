@@ -58,10 +58,10 @@ function Home() {
 
   return (
     <main className="container mx-auto max-width section md:flex justify-between items-center">
-      <div>
+      <div className="text-justify">
         <h1
           ref={h11}
-          className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold"
+          className="text-2xl text-dark-heading text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold"
         >
           Olá,👋<br></br>Meu nome é <br></br>
         </h1>
@@ -73,7 +73,7 @@ function Home() {
         </h1>
         <h2
           ref={h13}
-          className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold"
+          className="text-2xl text-dark-heading text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold"
         >
           {tagline}
         </h2>

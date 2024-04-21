@@ -34,7 +34,7 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Aleanse dos Santos Lima Rego",
+  name: "Aleanse dos Santos",
   tagline: "sou desenvolvedor Back-end em busca de constante evolução",
   img: aleanse,
   about: `Olá! Meu nome é Aleanse dos Santos Lima Rego, e sou apaixonado pela tecnologia.Em constante busca por evolução,desenvolvi uma paixão pelo mundo da programação e da computação, e essa paixão só cresceu  ao longo dos anos.
@@ -161,6 +161,6 @@ project lorem ipsum generator for dummy content`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
+  email: "aleanse_54@hotmail.com",
+  phone: "98 987795451",
 };
