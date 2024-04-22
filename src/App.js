@@ -9,7 +9,7 @@ import Technologies from "./Pages/Technologies";
 function App() {
   return (
     <Router>
-      <Header />
+      <Header/>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />

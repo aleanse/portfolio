@@ -15,7 +15,7 @@ function Technologies() {
   return (
     <main className="container mx-auto max-width pt-0 pb-20  flex justify-center items-center ">
      <div className="flex justify-center">
-      <div className="">
+      <div className="tech">
           <Tech />
       </div>
     </div>

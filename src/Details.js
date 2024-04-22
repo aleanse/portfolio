@@ -35,7 +35,7 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Aleanse dos Santos",
-  tagline: "sou desenvolvedor Back-end em busca de constante evolução",
+  tagline: "desenvolvedor Back-end em busca de constante evolução",
   img: aleanse,
   about: `Olá! Meu nome é Aleanse dos Santos Lima Rego, e sou apaixonado pela tecnologia.Em constante busca por evolução,desenvolvi uma paixão pelo mundo da programação e da computação, e essa paixão só cresceu  ao longo dos anos.
 
