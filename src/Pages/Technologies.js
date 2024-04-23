@@ -6,7 +6,7 @@ import {
 } from '../Components';
 function Technologies() {
   return (
-    <main className=" mx-auto max-width  flex justify-center items-center bg-tech bg-cover bg-center bg-no-repeat pb-11 ">
+    <main className=" mx-auto pt-4  max-width  flex justify-center items-center bg-tech bg-cover bg-center bg-no-repeat pb-10 ">
         <Tech />  
     </main>
   );

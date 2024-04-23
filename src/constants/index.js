@@ -59,10 +59,7 @@ import {
       name: 'Tailwind CSS',
       icon: tailwind,
     },
-    {
-      name: 'figma',
-      icon: figma,
-    },
+  
   ];
   
   const experiences = [
