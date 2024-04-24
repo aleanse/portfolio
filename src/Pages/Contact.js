@@ -4,7 +4,7 @@ import { contactDetails } from "../Details";
 function Contact() {
   const { email, phone } = contactDetails;
   return (
-    <main className="container mx-auto max-width section">
+    <main className="container mb-20 mt-11 mx-auto max-width ">
       <h1 className="text-center text-2xl md:text-3xl lg:text-6xl  text-light-heading font-semibold md:font-bold">
         Para entrar em contato:
       </h1>

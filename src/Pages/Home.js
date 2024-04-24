@@ -2,6 +2,7 @@ import React, { useRef, useEffect } from "react";
 import gsap from "gsap";
 import { personalDetails } from "../Details";
 
+
 function Home() {
   const { name, tagline, img } = personalDetails;
   const h11 = useRef();
@@ -57,7 +58,8 @@ function Home() {
   }, []);
 
   return (
-    <main className="container mx-auto max-width section md:flex justify-between items-center" style={{background:'url(nairobi.png)'}}>
+    <main className="container flex-grow
+     mx-auto max-width section md:flex justify-between items-center">
       <div className="text-justify">
         <h1
           ref={h11}
