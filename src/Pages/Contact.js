@@ -4,8 +4,8 @@ import { contactDetails } from "../Details";
 function Contact() {
   const { email, phone } = contactDetails;
   return (
-    <main className="container mb-20 mt-11 mx-auto max-width ">
-      <h1 className="text-center text-2xl md:text-3xl lg:text-6xl  text-light-heading font-semibold md:font-bold">
+    <main className="container min-h-[80vh]  mx-auto max-width flex flex-col justify-center items-center  ">
+      <h1 className="text-center text-2xl md:text-3xl lg:text-6xl   text-light-heading font-semibold md:font-bold">
         Para entrar em contato:
       </h1>
       <h3 className="text-center text-3xl md:text-4xl lg:text-6xl text-gradient font-semibold md:font-bold pt-5 md:pt-10 md:pb-6">
