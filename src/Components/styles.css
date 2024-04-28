@@ -29,7 +29,8 @@ code {
       display: flex;
       flex-direction: column;
       width: 100%;
-      padding: 1rem;
+      padding: 0.6rem;
+      padding-top: 1rem;
       color: #ee83e5;
       .tokenImage{
         border-radius: .5rem;
@@ -108,7 +109,7 @@ code {
     &:hover{
       border: 1px solid #ffffff44;
       box-shadow: 0 7px 50px 10px #000000aa;
-      transform: scale(1.015);
+      transform: scale(1.10);
       filter: brightness(1.3);
       ::before{
         filter: brightness(.5);
@@ -117,4 +118,9 @@ code {
       }
     }
   }
+  .section-projects h1{
+
+    margin-left: 3rem;
+
+  }  
   

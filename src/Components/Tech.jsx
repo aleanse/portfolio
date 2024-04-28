@@ -12,7 +12,7 @@ const Tech = () => {
         <h2 className={`${styles.sectionHeadTextLight} text-light-heading text-center`}>Tecnologias</h2>
       </motion.div>
 
-      <div className="grid grid-cols-4 gap-16 mt-14">
+      <div className="grid grid-cols-4 gap-20 mt-14">
         {technologies.map((technology) => (
           <div className="w-28 h-28" key={technology.name}>
             <BallCanvas icon={technology.icon} />

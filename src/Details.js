@@ -20,7 +20,7 @@ import aleanse from "./assets/aleanse.jpeg";
 // import spring from "./assets/techstack/spring.png";
 // Porject Images
 import projectImage1 from "./assets/projects/project1.png";
-import projectImage2 from "./assets/projects/project2.jpg";
+import projectImage2 from "./assets/projects/project2.png";
 import projectImage3 from "./assets/projects/project3.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
 import projectImage5 from "./assets/projects/project5.jpg";
@@ -113,10 +113,10 @@ export const projectDetails = [
     githubLink: "https://github.com/aleanse/Recipe_website_with_Django",
   },
   {
-    title: "Project title 2",
+    title: "Rede social com chat em tempo real",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `rede social onde voçê pode seguir outras pessoas, fazer posts, ver numero de seguidores, editar perfil, e o principal, mandar mensagens em tempo real
+    utilizando o método web-socket`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
