@@ -41,18 +41,18 @@ export const personalDetails = {
 
   Meu fascínio pela tecnologia me levou a explorar diversas áreas dentro da programação, em especial desenvolvimento web e back-end.Estou sempre ansioso para aprender novas linguagens de programação, frameworks e tecnologias emergentes.
   
-  Acredito que a chave para o sucesso na indústria da tecnologia é a constante evolução e aprendizado. Por isso, estou sempre procurando oportunidades para aprimorar minhas habilidades e me manter atualizado com as últimas tendências e práticas recomendadas.
+  Acredito que para alcançar o sucesso na indústria da tecnologia é necessario a constante evolução e aprendizado. Por isso, estou sempre procurando oportunidades para aprimorar minhas habilidades e me manter atualizado com as últimas tecnologias e práticas recomendadas.
   
   Além do meu interesse pela parte técnica, também valorizo a colaboração e o trabalho em equipe. Acredito que a melhor maneira de alcançar resultados excepcionais é através da troca de conhecimento e da colaboração com colegas talentosos.
-  Estou empolgado com as oportunidades que o futuro da tecnologia nos reserva e mal posso esperar para fazer parte dessa jornada emocionante!
+  Estou empolgado com as oportunidades que o futuro da tecnologia nos reserva e mal posso esperar para fazer parte dessa jornada emocionante!.
   
   `,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
+  linkdein: "https://www.linkedin.com/in/aleanse",
+  github: "https://www.github.com/aleanse",
   twitter: "https://twitter.com/",
   instagram: "https://www.instagram.com/",
 };
@@ -63,7 +63,7 @@ export const workDetails = [
     Position: "Bolsista Jovem Tech : programa de estudo com objetivo de formar jovens programadores. ",
     Company: `pulse`,
     Location: "São Luis MA",
-    Type: "Full Time",
+    Type: "Presencial",
     Duration: "jan 2024 - jun 2024",
   },
   
