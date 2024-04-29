@@ -58,7 +58,7 @@ function Home() {
   }, []);
 
   return (
-    <main className="container min-h-[80vh] mx-auto  md:flex justify-between items-center ">
+    <main className="container min-h-[82vh] mx-auto  md:flex justify-between items-center ">
       <div className="text-justify">
         <h1
           ref={h11}
