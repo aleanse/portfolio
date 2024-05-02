@@ -107,7 +107,7 @@ export const projectDetails = [
   {
     title: "Site de Receitas",
     image: projectImage1,
-    description: `site de receitas onde voçê pode cadastrar suas receitas favoritas, alem de ver as receitas de outros usuarios e pesquisar receitas através de descrição ou ingrediente`,
+    description: `site de receitas onde você pode cadastrar suas receitas favoritas, alem de ver as receitas de outros usuarios e pesquisar receitas através de descrição ou ingrediente`,
     techstack: "Python/Django",
     previewLink: "https://google.com",
     githubLink: "https://github.com/aleanse/Recipe_website_with_Django",
@@ -115,7 +115,7 @@ export const projectDetails = [
   {
     title: "Rede social com chat em tempo real",
     image: projectImage2,
-    description: `rede social onde voçê pode seguir outras pessoas, fazer posts, ver numero de seguidores, editar perfil, e o principal, mandar mensagens em tempo real
+    description: `rede social onde você pode seguir outras pessoas, fazer posts, ver numero de seguidores, editar perfil, e o principal, mandar mensagens em tempo real
     utilizando o método web-socket`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",

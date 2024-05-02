@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 import { logos, socialMediaUrl } from "../Details";
+import "./styles.css"
 
 function Header() {
   const [isOpen, setIsOpen] = useState(false);
@@ -17,7 +18,7 @@ function Header() {
         </NavLink>
         <div onClick={toggleClass} className="cursor-pointer">
           <svg
-            className="stroke-dark-heading dark:stroke-white md:hidden"
+            className="stroke-white md:hidden"
             width="25"
             height="20"
             viewBox="0 0 16 13"
@@ -35,7 +36,7 @@ function Header() {
       </div>
       <nav className={` ${!isOpen ? "hidden" : null} text-center md:flex justify-between`}>
         <ul className="text-light-content font-medium md:flex items-center md:space-x-5 md:mr-10">
-          <li className="pb-1 md:pb-0">
+          <li className="inicial">
             <NavLink to="/" onClick={toggleClass}>
               Pagina inicial
             </NavLink>

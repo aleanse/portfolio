@@ -14,7 +14,7 @@ module.exports = {
         "dark-card": "#363636",
         "green-text": "#018C0F",
         "greenbg": "#D7FFE0",
-        "purple": "#d391fa",
+        "purple": "#7e087e",
         "blue": "#6b00d7",
       },
       backgroundImage: {
