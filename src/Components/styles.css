@@ -126,7 +126,7 @@ code {
   
 .inicial {
     cursor: pointer;
-    text-transform: uppercase;
+    padding-bottom: 0.25rem;
     transition: 0.5s;
 }
   
