@@ -16,6 +16,26 @@ function Header() {
         <NavLink to="/">
           <img className="w-34 h-24" src={logos.logogradient} alt="logo" />
         </NavLink>
+        <div onClick={toggleClass} className="cursor-pointer">
+          <svg
+            className="stroke-white md:hidden"
+            width="25"
+            height="20"
+            viewBox="0 0 16 13"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M1.4375 1.3125H14.5625M1.4375 11.3125H14.5625H1.4375ZM1.4375 6.3125H14.5625H1.4375Z"
+              strokeWidth="1.875"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            />
+          </svg>
+
+           
+
+         </div>
         
       </div>
       <nav className={` ${!isOpen ? "hidden" : null} text-center md:flex justify-between`}>
@@ -24,6 +44,7 @@ function Header() {
             <NavLink to="/" onClick={toggleClass}>
               Pagina inicial
             </NavLink>
+            
           </li>
           <li className="inicial">
             <NavLink to="/about" onClick={toggleClass}>
