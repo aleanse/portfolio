@@ -1,9 +1,7 @@
-code {
+
+  .nft{
     font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
       monospace;
-  }
-  
-  .nft{
     user-select:none;
     max-width: 300px;
     margin: 5rem auto;
@@ -40,7 +38,7 @@ code {
       }
       .description{
         margin: .5rem 0;
-        
+        color: #a89ec9;
       }
       .tokenInfo{
         display: flex;
