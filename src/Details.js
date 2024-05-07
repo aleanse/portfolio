@@ -72,7 +72,7 @@ export const workDetails = [
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Bacharelado Interdisciplina em Ciência e Tecnologia",
+    Position: "Bacharelado Interdisciplinar em Ciência e Tecnologia",
     Company: "UFMA",
     Location: "São luís MA ",
     Type: "Presencial",
@@ -116,7 +116,7 @@ export const projectDetails = [
     title: "Rede social com chat em tempo real",
     image: projectImage2,
     description: `rede social onde você pode seguir outras pessoas, fazer posts, ver numero de seguidores, editar perfil, e o principal, mandar mensagens em tempo real
-    utilizando o método web-socket`,
+    utilizando  métodos web-sockets`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
