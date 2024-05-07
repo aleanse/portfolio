@@ -80,7 +80,7 @@ function Home() {
         </h2>
       </div>
       <div className=" flex items-center justify-center mt-5  md:mt-0">
-        <img ref={myimageref} className="w-full md:w-1/ mx-auto md:ml-auto" src={img} alt="Aleanse" />
+        <img ref={myimageref} className="w-1/1 md:w-1/2  md:ml-auto" src={img} alt="Aleanse" />
       </div>
       
       
