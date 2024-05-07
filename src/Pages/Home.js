@@ -74,7 +74,7 @@ function Home() {
         </h1>
         <h2
           ref={h13}
-          className=" text-light-heading  md:text-4xl xl:text-5xl xl:leading-tight font-bold"
+          className="text-2xl text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold"
         >
           {tagline}
         </h2>
