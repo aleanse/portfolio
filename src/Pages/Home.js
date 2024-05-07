@@ -58,7 +58,7 @@ function Home() {
   }, []);
 
   return (
-    <main className=" container min-h-[85vh] mx-20 flex items-center justify-center ">
+    <main className="  min-h-[85vh] mx-20 flex items-center justify-center ">
       <div className="">
         <h1
           ref={h11}
@@ -79,9 +79,11 @@ function Home() {
           {tagline}
         </h2>
       </div>
-      <div className="mt-5  md:mt-0">
-        <img ref={myimageref} className="w-1/2  md:ml-auto" src={img} alt="Aleanse" />
+      <div className=" flex items-center justify-center mt-5  md:mt-0">
+        <img ref={myimageref} className="w-1/1 md:w-1/2  md:ml-auto" src={img} alt="Aleanse" />
       </div>
+      
+      
     </main>
   );
 }
