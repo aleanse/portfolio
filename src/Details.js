@@ -124,7 +124,7 @@ export const projectDetails = [
   {
     title: "Project title 3",
     image: projectImage3,
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.`,
+    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
