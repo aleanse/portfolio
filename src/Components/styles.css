@@ -22,9 +22,7 @@ hr{
 ins{
   text-decoration: none;
 }
-h2 {
-  color: #ee83e5;
-}
+
 .main{
   display: flex;
   flex-direction: column;
@@ -116,6 +114,9 @@ h2 {
 .description{
   margin: .5rem 0;
   color: #a89ec9;
+}
+.titulo{
+  color: #ee83e5;
 }
 .section-projects h1{
 

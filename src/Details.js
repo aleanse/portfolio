@@ -124,8 +124,7 @@ export const projectDetails = [
   {
     title: "Project title 3",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
@@ -133,8 +132,7 @@ project lorem ipsum generator for dummy content`,
   {
     title: "Project title 4",
     image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
@@ -142,8 +140,7 @@ project lorem ipsum generator for dummy content`,
   {
     title: "Project title 5",
     image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
@@ -151,8 +148,7 @@ project lorem ipsum generator for dummy content`,
   {
     title: "Project title 6",
     image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
