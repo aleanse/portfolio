@@ -35,11 +35,11 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Aleanse dos Santos",
-  tagline: "desenvolvedor Back-end em busca de constante evolução",
+  tagline: "Desenvolvedor Back-end em busca de constante evolução",
   img: aleanse,
-  about: `Olá! Meu nome é Aleanse dos Santos Lima Rego, e sou apaixonado pela tecnologia.Em constante busca por evolução,desenvolvi uma paixão pelo mundo da programação e da computação, e essa paixão só cresceu  ao longo dos anos.
+  about: `Olá! Meu nome é Aleanse dos Santos Lima Rego, sou apaixonado pela tecnologia. Em constante busca por evolução,desenvolvi uma paixão pelo mundo da programação e da computação, e essa paixão só cresceu  ao longo dos anos.
 
-  Meu fascínio pela tecnologia me levou a explorar diversas áreas dentro da programação, em especial desenvolvimento web e back-end.Estou sempre ansioso para aprender novas linguagens de programação, frameworks e tecnologias emergentes.
+  Meu fascínio pela tecnologia me levou a explorar diversas áreas dentro da programação, em especial desenvolvimento web e back-end. Estou sempre ansioso para aprender novas linguagens de programação, frameworks e tecnologias emergentes.
   
   Acredito que para alcançar o sucesso na indústria da tecnologia é necessario a constante evolução e aprendizado. Por isso, estou sempre procurando oportunidades para aprimorar minhas habilidades e me manter atualizado com as últimas tecnologias e práticas recomendadas.
   
