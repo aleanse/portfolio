@@ -58,7 +58,7 @@ function Home() {
   }, []);
 
   return (
-    <main className="  min-h-[85vh]  mx-20  flex items-center justify-center sd:10">
+    <main className=" container min-h-[85vh]    flex items-center justify-center sd:10 mx-20">
       <div className="">
         <h1
           ref={h11}
