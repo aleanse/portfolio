@@ -58,8 +58,8 @@ function Home() {
   }, []);
 
   return (
-    <main className=" container min-h-[85vh]    flex items-center justify-center sd:10 mx-20">
-      <div className="">
+    <main className="  min-h-[85vh]  flex items-center justify-center  lg:mx-20 sm:mx-10 ">
+      <div className="ml-5">
         <h1
           ref={h11}
           className="text-2xl text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold"
@@ -79,11 +79,9 @@ function Home() {
           {tagline}
         </h2>
       </div>
-      <div className=" flex items-center justify-center mt-5  md:mt-0">
-        <img ref={myimageref} className="w-1/1 md:w-1/2  md:ml-auto" src={img} alt="Aleanse" />
-      </div>
-      
-      
+      <div  className="flex items-center mt-5 md:mt-0 justify-end   md: mr-10 ">
+        <img  ref={myimageref}  className="imagem" src={img} alt="Aleanse" />
+      </div>      
     </main>
   );
 }
