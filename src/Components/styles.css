@@ -114,6 +114,7 @@ ins{
 .description{
   margin: .5rem 0;
   color: #a89ec9;
+  text-align: justify;
 }
 .titulo{
   color: #ee83e5;

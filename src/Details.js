@@ -107,7 +107,7 @@ export const projectDetails = [
   {
     title: "Site de Receitas",
     image: projectImage1,
-    description: `site de receitas onde você pode cadastrar suas receitas favoritas, alem de ver as receitas de outros usuarios e pesquisar receitas através de descrição ou ingrediente`,
+    description: `Site de receitas feito em Django. O site permite que os usuários se registrem, façam login e gerenciem suas contas, além de publicarem receitas com detalhes, como título, ingredientes, modo de preparo e imagens. A plataforma inclui uma função de busca avançada para encontrar receitas por nome, ingredientes ou categorias, ajudando os usuários a identificar as melhores opções. Um dashboard de administração está disponível para gerenciar usuários, receitas e categorias.Este projeto utiliza Django no backend, e MySQL como banco de dados`,
     techstack: "Python/Django",
     previewLink: "https://google.com",
     githubLink: "https://github.com/aleanse/Recipe_website_with_Django",
@@ -115,11 +115,10 @@ export const projectDetails = [
   {
     title: "Rede social com chat em tempo real",
     image: projectImage2,
-    description: `rede social onde você pode seguir outras pessoas, fazer posts, ver numero de seguidores, editar perfil, e o principal, mandar mensagens em tempo real
-    utilizando  métodos web-sockets`,
+    description: `Rede social feita em Django, construida para conectar usuários e proporcionar uma experiência de interação e dinâmica. A plataforma permite que os usuários se registrem, façam login e gerenciem seus perfis, além de publicar postagens, comentar e curtir conteúdos de outros usuários. Uma das principais funcionalidades é o chat em tempo real, que possibilita conversas entre os usuários, A rede social também inclui um sistema de notificações para manter os usuários atualizados sobre as mensagens recebidas. Utilizei Django no backend, e MySQL como banco de dados(projeto em andamento)`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/aleanse",
   },
   {
     title: "Project title 3",
@@ -127,7 +126,7 @@ export const projectDetails = [
     description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/aleanse",
   },
   {
     title: "Project title 4",
@@ -135,7 +134,7 @@ export const projectDetails = [
     description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/aleanse",
   },
   {
     title: "Project title 5",
@@ -143,7 +142,7 @@ export const projectDetails = [
     description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/aleanse",
   },
   {
     title: "Project title 6",
@@ -151,7 +150,7 @@ export const projectDetails = [
     description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/aleanse",
   },
 ];
 
