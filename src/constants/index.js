@@ -131,8 +131,6 @@ import {
           color: 'pink-text-gradient',
         },
       ],
-      repo: 'https://github.com/shaqdeff/Leaderboard',
-      demo: 'https://shaqdeff.github.io/Leaderboard/',
     },
     {
       id: 'project-3',

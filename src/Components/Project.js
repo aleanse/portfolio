@@ -7,7 +7,7 @@ function Project({ title, image, description, techstack, previewLink, githubLink
     <>
       <div class="nft">
         <div class='main'>
-        <img src={image} alt="" loading="lazy" />
+       <a href={githubLink}><img src={image} loading="lazy" /></a> 
           <h2 class='titulo'>{title}</h2>
           <p class='description'>{description}.</p>
         </div>
