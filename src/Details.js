@@ -110,7 +110,7 @@ export const projectDetails = [
     description: `Site de receitas feito em Django. O site permite que os usuários se registrem, façam login e gerenciem suas contas, além de publicarem receitas com detalhes, como título, ingredientes, modo de preparo e imagens. A plataforma inclui uma função de busca avançada para encontrar receitas por nome, ingredientes ou categorias, ajudando os usuários a identificar as melhores opções. Um dashboard de administração está disponível para gerenciar usuários, receitas e categorias.Este projeto utiliza Django no backend, e MySQL como banco de dados`,
     techstack: "Python/Django",
     previewLink: "https://google.com",
-    githubLink: "https://github.com/aleanse/Recipe_website_with_Django",
+    githubLink: "https://recipe-website-with-django.vercel.app/",
   },
   {
     title: "Rede social com chat em tempo real",
