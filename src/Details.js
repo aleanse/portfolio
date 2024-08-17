@@ -115,10 +115,10 @@ export const projectDetails = [
   {
     title: "Rede social com chat em tempo real",
     image: projectImage2,
-    description: `Rede social feita em Django, construida para conectar usuários e proporcionar uma experiência de interação e dinâmica. A plataforma permite que os usuários se registrem, façam login e gerenciem seus perfis, além de publicar postagens, comentar e curtir conteúdos de outros usuários. Uma das principais funcionalidades é o chat em tempo real, que possibilita conversas entre os usuários, A rede social também inclui um sistema de notificações para manter os usuários atualizados sobre as mensagens recebidas. Utilizei Django no backend, e MySQL como banco de dados(projeto em andamento)`,
+    description: `Rede social feita em Django, construida para conectar usuários e proporcionar uma experiência de interação e dinâmica. A plataforma permite que os usuários se registrem, façam login e gerenciem seus perfis, além de publicar postagens, comentar e curtir conteúdos de outros usuários. Uma das principais funcionalidades é o chat em tempo real, que possibilita conversas entre os usuários, A rede social também inclui um sistema de notificações para manter os usuários atualizados sobre as mensagens recebidas. Utilizei Django no backend, e PostgreSQL como banco de dados`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
-    githubLink: "https://github.com/aleanse",
+    githubLink: "https://github.com/aleanse/social-network-with-django",
   },
   {
     title: "Project title 3",
