@@ -3,7 +3,6 @@ import {
     aws,
     docker,
     tailwind,
-    figma,
     python,
     django,
     java,
