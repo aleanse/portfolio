@@ -1,8 +1,8 @@
 
 import css from './tech/css.png';
-import figma from './tech/figma.png';
-import git from './tech/git.png';
 import html from './tech/html.png';
+import aws from './tech/aws-color.png';
+import docker from './tech/docker.png';
 import javascript from './tech/javascript.png';
 import django from './tech/django.png';
 import python from './tech/python.png';
@@ -16,8 +16,6 @@ import tailwind from './tech/tailwind.png';
 
 export {
   css,
-  figma,
-  git,
   html,
   javascript,
   tailwind,
@@ -25,5 +23,6 @@ export {
   python,
   java,
   spring,
- 
+  aws,
+  docker,
 };

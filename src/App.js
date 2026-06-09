@@ -9,6 +9,9 @@ import Technologies from "./Pages/Technologies";
 function App() {
   return (
     <Router>
+      {/* Full-screen background shared across all pages */}
+      <div className="fixed inset-0 bg-tech bg-cover bg-center bg-no-repeat -z-10" />
+
       <Header/>
       <Routes>
         <Route path="/" element={<Home />} />

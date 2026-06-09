@@ -18,7 +18,7 @@ module.exports = {
         "blue": "#6b00d7",
       },
       backgroundImage: {
-        tech: "linear-gradient(165deg, rgba(20,20,20,0.8) 100%, rgba(109,109,116,0.8) 100%), url('/src/assets/nairobi.png')",
+        tech: "linear-gradient(rgba(20,20,20,0.80), rgba(20,20,20,0.80)), url('/src/assets/nairobi.png')",
         },
     },
   },

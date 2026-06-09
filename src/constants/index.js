@@ -1,14 +1,14 @@
 import {
     javascript,
-    html,
-    css,
+    aws,
+    docker,
     tailwind,
     figma,
     python,
     django,
     java,
     spring
-    
+
   } from '../assets';
   
   export const navLinks = [
@@ -44,12 +44,12 @@ import {
       icon: spring,
     },
     {
-      name: 'HTML 5',
-      icon: html,
+      name: 'AWS',
+      icon: aws,
     },
     {
-      name: 'CSS 3',
-      icon: css,
+      name: 'Docker',
+      icon: docker,
     },
     {
       name: 'JavaScript',

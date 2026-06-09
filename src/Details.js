@@ -60,11 +60,19 @@ export const socialMediaUrl = {
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Bolsista Jovem Tech : programa de estudo com objetivo de formar jovens programadores. ",
-    Company: `pulse`,
+    Position: "Desenvolvedor Back-end Júnior:\nAtuo como desenvolvedor back-end júnior, trabalhando na manutenção e desenvolvimento de novas funcionalidades para um sistema de gestão para empresas de contabilidade. Utilizo principalmente a linguagem Python e o framework Django para criar soluções eficientes e escaláveis. Além disso, colaboro com a equipe para garantir a qualidade do código e a entrega de projetos dentro dos prazos estabelecidos.",
+    Company: `Sequence`,
+    Location: "São Luis MA",
+    Type: "Presencial",
+    Duration: "out 2025 - atualmente",
+  },
+  {
+    Position: "Bolsista Jovem Tech:\nprograma de estudo com objetivo de formar jovens programadores.",
+    Company: `Pulse`,
     Location: "São Luis MA",
     Type: "Presencial",
     Duration: "jan 2024 - jun 2024",
+    
   },
   
 ];
@@ -72,7 +80,7 @@ export const workDetails = [
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Bacharelado Interdisciplinar em Ciência e Tecnologia",
+    Position: "Bacharelado Interdisciplinar\nem Ciência e Tecnologia",
     Company: "UFMA",
     Location: "São luís MA ",
     Type: "Presencial",
